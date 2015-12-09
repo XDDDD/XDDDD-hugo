@@ -1,0 +1,10 @@
+baseurl : 'http://XDDDD.github.com/'
+contentdir: 'content'
+layoutdir: 'layouts'
+publishdir: 'public'
+defaultLayout:              "post"
+languageCode : 'en-us'
+title : 'XDDD'
+theme : 'hugo-uno'
+indexes:
+  category: 'categories'
